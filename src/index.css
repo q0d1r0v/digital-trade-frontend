@@ -1,0 +1,180 @@
+@import "tailwindcss";
+
+/* Hairline */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-hairline.otf")
+    format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-hairlineitalic.otf")
+    format("opentype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thin */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-thin.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-thinitalic.otf")
+    format("opentype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ExtraLight */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-ultralight.otf")
+    format("opentype");
+  font-weight: 250;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-ultralightitalic.otf")
+    format("opentype");
+  font-weight: 250;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Light */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-lightitalic.otf")
+    format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-regular.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-mediumitalic.otf")
+    format("opentype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Semibold */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-semibold.otf")
+    format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-semibolditalic.otf")
+    format("opentype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-bolditalic.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ExtraBold */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-extrabold.otf")
+    format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-extrabolditalic.otf")
+    format("opentype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Heavy */
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-heavy.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Engram Pro";
+  src: url("/assets/fonts/Fontspring-DEMO-engram-heavyitalic.otf")
+    format("opentype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+html,
+body {
+  font-family: "Engram Pro", sans-serif;
+}
