@@ -1,4 +1,4 @@
-# DigitalTradeFrontend
+# digital-trade-frontend
 
 Digital Trade Startup
 
@@ -8,11 +8,11 @@ Digital Trade Startup
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd DigitalTradeFrontend
+git clone https://github.com/q0d1r0v/digital-trade-frontend.git
+cd digital-trade-frontend
 
 # Install dependencies
-yarn install
+yarn
 
 # Run the dev server
 yarn dev
@@ -20,5 +20,3 @@ yarn dev
 # Building for production
 yarn build
 ```
-
-# digital-trade-frontend
